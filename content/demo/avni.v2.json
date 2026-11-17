@@ -1,0 +1,21 @@
+{
+  "version":2,
+  "provenance":"Illustrative demo reconstruction. The profile and gulgule/light motifs are research-inspired; additional reflections are synthetic scenario writing, not interview quotes or a real product history.",
+  "profile":{"name":"Avni","location":"Gurgaon","origins":"UP heritage · Ghaziabad, Kashipur and Allahabad","festivals":"Ahoi Ashtami, Karwa Chauth, Diwali"},
+  "currents":[
+    {"id":"ahoi_ashtami","label":"The children’s fast","intent":"Learn","depth":2},
+    {"id":"recipes","label":"Family recipes · gulgule","intent":"Practice","depth":2},
+    {"id":"diwali","label":"The Diwali light","intent":"Learn","depth":2}
+  ],
+  "captures":[
+    {"id":"avni.gulgule.v2","current":"recipes","kind":"family","text":"Gulgule belongs beside our memories of Ahoi Ashtami and Karwa Chauth.","provenance":"Illustrative paraphrase of the interview-inspired gulgule motif.","created_at":"Illustrative history · an earlier Ahoi Season"},
+    {"id":"avni.light.v2","current":"diwali","kind":"family","text":"Repairing and hanging the old Allahabad light brings my father to mind.","provenance":"Illustrative paraphrase of the interview-inspired old-light motif.","created_at":"Illustrative history · an earlier Diwali"},
+    {"id":"avni.recipe-question.v2","current":"recipes","kind":"own","text":"I want to ask which parts of the gulgule recipe stayed the same, and which changed between homes.","provenance":"Synthetic reflection written for the demo; not an interview quotation.","created_at":"Illustrative history · a later conversation"},
+    {"id":"avni.ahoi-reflection.v2","current":"ahoi_ashtami","kind":"own","text":"The meaning of the children’s fast in my own family is still an open question. I would rather ask than assume.","provenance":"Synthetic reflection written for the demo; family meaning deliberately unresolved.","created_at":"Illustrative history · a question kept open"},
+    {"id":"avni.light-reflection.v2","current":"diwali","kind":"own","text":"The light is a family memory for me. I want to understand how that memory sits beside the wider meanings of Diwali.","provenance":"Synthetic reflection written for the demo; not evidence of religious affiliation.","created_at":"Illustrative history · the most recent thread"}
+  ],
+  "threads":[
+    {"id":"avni.ahoi-why.v2","current":"ahoi_ashtami","question":"Why is the children’s fast kept in our family?","season":"ahoi_ashtami","recency":1},
+    {"id":"avni.diwali-light.v2","current":"diwali","question":"How does the old family light sit beside Diwali’s wider meanings?","season":"diwali","recency":2}
+  ]
+}

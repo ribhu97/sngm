@@ -1,0 +1,186 @@
+{
+  "id": "diwali.demo.v1",
+  "version": 1,
+  "status": "demo_curated",
+  "checked_at": "2026-11-17",
+  "editorial_note": "Original short paraphrases checked against the linked passages for this demo. Not an independently peer-reviewed religious reference. Primary texts, scholarship and curatorial interpretation are labelled separately. No source determines a particular family's beliefs.",
+  "sources": [
+    {
+      "id": "ucla-diwali",
+      "title": "Diwali",
+      "author": "MANAS, UCLA Social Sciences",
+      "kind": "University cultural overview",
+      "locator": "Opening three paragraphs: lamps and regional associations",
+      "url": "https://southasia.ucla.edu/culture/festivals/diwali/",
+      "summary": "The overview places household lamps beside several regional narratives, including Rama, Lakshmi and Kali.",
+      "reuse": "Original paraphrase; linked source, no reproduced image."
+    },
+    {
+      "id": "sri-sukta",
+      "title": "Śrī Sūktam",
+      "author": "Traditional hymn; text and translation hosted by Green Message",
+      "kind": "Primary text, with modern translation",
+      "locator": "Verses 1–5; Rigvedic appendix tradition",
+      "url": "https://www.greenmesg.org/stotras/lakshmi/sri_suktam.php",
+      "excerpt": "चन्द्रां हिरण्मयीं लक्ष्मीं जातवेदो म आवह",
+      "summary": "The first verses invoke radiant Śrī/Lakshmi through Jātavedas (Agni) and ask for her enduring presence and flourishing. They are not a calendar prescription for Diwali.",
+      "reuse": "Ancient Sanskrit excerpt; English explanation is an original paraphrase, not the site's translation."
+    },
+    {
+      "id": "met-kali",
+      "title": "Seeing Kali Clearly",
+      "author": "Vaishnavi Patil · The Metropolitan Museum of Art, 2026",
+      "kind": "Curatorial interpretation",
+      "locator": "Paragraphs on protective ferocity, Devī Māhātmya and Kali as Mother",
+      "url": "https://www.metmuseum.org/perspectives/household-gods-kali-lithography",
+      "summary": "Patil interprets Kali's fierce imagery through protection, renewal and maternal devotion, and traces changes in her textual and visual roles.",
+      "reuse": "Original paraphrase; no reproduced artwork."
+    },
+    {
+      "id": "craddock-bhakti",
+      "title": "Goddess Worship and Bhakti",
+      "author": "Elaine Craddock · Oxford Bibliographies in Hinduism, 2021",
+      "kind": "Academic scholarship",
+      "locator": "Public introduction, paragraphs 2–4; DOI 10.1093/obo/9780195399318-0241",
+      "url": "https://academic.oup.com/reference/62357/reference-article-abstract/554517067",
+      "summary": "Bhakti can be devotion to a goddess. Shaktism places the Goddess as supreme reality, and some Shakta traditions make bhakti central. These are overlapping categories.",
+      "reuse": "Original paraphrase of the publicly accessible introduction; full article may require access."
+    },
+    {
+      "id": "devi-gita",
+      "title": "Devī Gītā · On Bhakti Yoga",
+      "author": "Traditional Devī Bhāgavata Purāṇa; English translation in the Internet Sacred Text Archive",
+      "kind": "Primary text in translation",
+      "locator": "Book 7, chapter 37 (Devī Gītā chapter 7), verses 1–13",
+      "url": "https://sacred-texts.com/hin/dg/dg07.htm",
+      "excerpt": "Bhakti Yoga is the easiest in all respects",
+      "summary": "The Goddess teaches bhakti alongside action and knowledge, differentiating devotion by motive. A Shakta text itself teaches devotion rather than opposing it.",
+      "reuse": "Short attributed excerpt from the historical translation; remainder is original paraphrase."
+    },
+    {
+      "id": "gita-9-26",
+      "title": "Bhagavad Gītā 9.26",
+      "author": "Traditional text; IIT Kanpur Heritage text and commentary collection",
+      "kind": "Primary text with multiple commentarial traditions",
+      "locator": "Chapter 9, verse 26",
+      "url": "https://heritage.iitk.ac.in/SBG/9.26?script=ro",
+      "summary": "Krishna speaks of accepting a leaf, flower, fruit or water offered with devotion. This illuminates bhakti, not a universal manual for Lakshmi or Kali Puja.",
+      "reuse": "Original English paraphrase; no copied modern translation.",
+      "excerpt": "patraṅ puṣpaṅ phalaṅ tōyaṅ yō mē bhaktyā prayacchati"
+    }
+  ],
+  "accounts": [
+    {
+      "id": "diwali.overview.v1",
+      "title": "One festival, more than one centre",
+      "tags": [
+        "diwali",
+        "light",
+        "diya",
+        "home",
+        "festival"
+      ],
+      "text": "Household lamps are a shared visible practice, but Diwali does not have one explanation everywhere. UCLA's overview associates northern celebrations with Rama's return, Gujarat with Lakshmi, and Bengal with Kali. These are broad regional patterns, not rules for every household. A family's practice can combine several strands.",
+      "spoken": "The lamps connect many celebrations, but the stories differ. The UCLA source beside us describes Rama's return in northern traditions, Lakshmi in Gujarat, and Kali in Bengal. Which part feels closest to your home?",
+      "source_ids": [
+        "ucla-diwali",
+        "sri-sukta"
+      ],
+      "limits": "A regional overview cannot establish your family's own interpretation. The accompanying hymn is literary context, not evidence for a single origin of Diwali."
+    },
+    {
+      "id": "diwali.lakshmi.v1",
+      "title": "Lakshmi Puja · inviting Śrī to remain",
+      "tags": [
+        "lakshmi",
+        "laxmi",
+        "sri sukta",
+        "prosperity",
+        "wealth"
+      ],
+      "text": "The Śrī Sūktam invokes Lakshmi through Agni as radiant Śrī and asks for her lasting presence. Its imagery joins beauty, abundance and household flourishing. Reading Lakshmi Puja beside this hymn is richer than treating it as a request for money alone. The hymn does not itself prescribe the date or household sequence of Diwali worship; that connection belongs to lived ritual traditions.",
+      "spoken": "The Sri Suktam asks for Lakshmi's lasting presence, with images of radiance and flourishing. That offers a wider reading than money alone. It is a hymn, though, not a Diwali timetable. What does inviting Lakshmi mean in your family?",
+      "source_ids": [
+        "sri-sukta",
+        "ucla-diwali"
+      ],
+      "limits": "Textual interpretation, not ritual instructions or a promise of prosperity."
+    },
+    {
+      "id": "diwali.kali.v1",
+      "title": "Kali Puja · the fierce and the maternal",
+      "tags": [
+        "kali",
+        "shyama",
+        "bengal",
+        "bengali",
+        "protection"
+      ],
+      "text": "Kali is associated with Diwali in Bengal, but fierce imagery need not mean an absence of tenderness. Curator Vaishnavi Patil reads her ferocity as protective and places destruction beside renewal and the intimate address of Mother. Patil also distinguishes Kali's role in the Devī Māhātmya from later developments in Tantric and Bengali devotional traditions. The festival should not be reduced to a single unchanging origin story.",
+      "spoken": "In Bengal, Diwali is associated with Kali. The museum essay beside us explains how her fierceness can express protection, while devotees also address her as Mother. Fierce and tender are not necessarily opposites here. What part would you like to understand?",
+      "source_ids": [
+        "ucla-diwali",
+        "met-kali",
+        "devi-gita"
+      ],
+      "limits": "A curator's interpretation of imagery is not every devotee's theology, or proof of a family's practice. The accompanying Devī Gītā passage offers Goddess-devotion context; it does not describe Kali Puja specifically."
+    },
+    {
+      "id": "diwali.comparison.v1",
+      "title": "Lakshmi and Kali · different emphases, overlapping worlds",
+      "tags": [
+        "comparison",
+        "versus",
+        "difference",
+        "both"
+      ],
+      "text": "A useful comparison is between emphases, not between two opposing religions: Lakshmi's hymn invokes enduring Śrī and flourishing; Kali's imagery can express protective, transformative power. Regional Diwali accounts place them in different centres of worship. Neither a household's choice of goddess nor one festival is enough to identify its entire tradition. Both can be approached devotionally, and Goddess-centred traditions are internally diverse.",
+      "spoken": "Lakshmi and Kali bring different emphases: the hymn to Lakshmi asks for enduring flourishing; Kali's imagery can express protection and transformation. But this is not simply Shaktism versus bhakti. Devotion can be central to Goddess worship too. Shall we look more closely at that overlap?",
+      "source_ids": [
+        "sri-sukta",
+        "met-kali",
+        "craddock-bhakti"
+      ],
+      "limits": "This is a short editorial comparison of the cited sources, not a claim that all Lakshmi or Kali worship fits one category."
+    },
+    {
+      "id": "diwali.shakti-bhakti.v1",
+      "title": "Shaktism and bhakti · not opposing camps",
+      "tags": [
+        "shakti",
+        "shakta",
+        "shaktism",
+        "bhakti",
+        "bhaktism",
+        "devotion",
+        "tantra"
+      ],
+      "text": "Shaktism concerns the Goddess as supreme reality; bhakti names a devotional orientation and practice. Elaine Craddock explicitly describes their overlap. The Devī Gītā provides a literary example: the Goddess teaches bhakti alongside knowledge and action and distinguishes devotion by its motive. Calling Lakshmi Puja 'bhakti' and Kali Puja 'Shaktism' as if the two exclude each other therefore misses an important relationship.",
+      "spoken": "Shaktism and bhakti answer different questions. Shaktism centres the Goddess as supreme reality; bhakti describes devotion. They can overlap. In the Devi Gita, the Goddess herself teaches bhakti. So Kali worship can be deeply devotional too. Does that change how you see the difference?",
+      "source_ids": [
+        "craddock-bhakti",
+        "devi-gita"
+      ],
+      "limits": "'Bhaktism' is interpreted here as a question about bhakti, without presuming the speaker's affiliation."
+    },
+    {
+      "id": "diwali.offering.v1",
+      "title": "What makes an offering meaningful?",
+      "tags": [
+        "offering",
+        "flower",
+        "fruit",
+        "water",
+        "simple",
+        "gita"
+      ],
+      "text": "Bhagavad Gītā 9.26 gives a compact example of bhakti: Krishna accepts a leaf, flower, fruit or water offered with devotion. Read beside the Devī Gītā's teaching on devotional motive, it opens a question about the relationship between an offering's material form and the attention with which it is made. This comparison is an interpretive bridge, not a claim that a Krishna verse prescribes Lakshmi or Kali Puja.",
+      "spoken": "In Gita nine twenty-six, Krishna speaks of a leaf, flower, fruit or water offered with devotion. Beside the Devi Gita, that opens a question about intention as well as material offerings. It doesn't prescribe your family's puja. What makes an offering feel meaningful to you?",
+      "source_ids": [
+        "gita-9-26",
+        "devi-gita"
+      ],
+      "limits": "Comparative interpretation; not a universal puja procedure."
+    }
+  ]
+}
